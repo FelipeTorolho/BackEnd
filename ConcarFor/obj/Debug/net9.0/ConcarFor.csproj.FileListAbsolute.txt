@@ -1,0 +1,14 @@
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\bin\Debug\net9.0\ConcarFor.exe
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\bin\Debug\net9.0\ConcarFor.deps.json
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\bin\Debug\net9.0\ConcarFor.runtimeconfig.json
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\bin\Debug\net9.0\ConcarFor.dll
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\bin\Debug\net9.0\ConcarFor.pdb
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.AssemblyInfoInputs.cache
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.AssemblyInfo.cs
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.csproj.CoreCompileInputs.cache
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.dll
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\refint\ConcarFor.dll
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.pdb
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ConcarFor.genruntimeconfig.cache
+C:\Users\42400772819\Desktop\BackEndMoura\ConcarFor\obj\Debug\net9.0\ref\ConcarFor.dll
