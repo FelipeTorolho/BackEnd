@@ -118,6 +118,8 @@ void Transferir()
     {
         saldos[idOrigem] -= valor;
         saldos[idDestino] += valor;
+        Console.WriteLine($"Transferência concluída");
+        
     }
     else
     {
