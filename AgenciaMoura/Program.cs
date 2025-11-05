@@ -90,7 +90,7 @@ void Sacar()
 
     Console.WriteLine($"Digite o valor do saque: ");
     float valor = float.Parse(Console.ReadLine());
-    if (valor > saldos[idCliente])
+    if (valor > saldos[idCliente] && valor > 0)
     {
         Console.WriteLine($"Saldo insuficiente para saque!");
         return;
@@ -114,12 +114,11 @@ void Transferir()
     Console.Write($"Valor para transferir: ");
     float valor = float.Parse(Console.ReadLine());
 
-    if (saldos[idDestino] >= valor && valor > 0)
+    if (saldos[idOrigem] >= valor && valor > 0)
     {
         saldos[idOrigem] -= valor;
         saldos[idDestino] += valor;
         Console.WriteLine($"Transferência concluída");
-        
     }
     else
     {
