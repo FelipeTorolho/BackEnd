@@ -43,13 +43,11 @@ aluno.Curso = "TI";
 aluno.ExibirInfo();
 Console.WriteLine($"");
 
-
 Professor professor = new Professor();
 professor.Nome = "João";
 professor.Idade = 56;
 professor.Disciplina = "TI";
 professor.ExibirInfo();
-
 
 
 Console.WriteLine("=== Dados do Aluno ===");

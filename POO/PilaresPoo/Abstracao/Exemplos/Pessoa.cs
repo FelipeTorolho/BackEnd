@@ -1,0 +1,25 @@
+namespace Exemplos
+{
+    public class Pessoa : Animal
+    {
+        public string Nome;
+        public int Idade;
+
+        public void Dormir()
+        {
+            Console.WriteLine($"ZZZZzzzzz...");
+            
+        }
+
+        public override void FazerSom()
+        {
+            Console.WriteLine($"Olá, eu sou uma pessoa feliz :");
+            
+        }
+
+        public override void Mover()
+        {
+            Console.WriteLine($"Plac Plac People");
+        }
+    }
+}
