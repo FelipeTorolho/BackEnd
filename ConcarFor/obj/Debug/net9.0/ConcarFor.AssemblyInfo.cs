@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcarFor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f83d868591a6a75d954db2dd67f692a8cb4378cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c586cc7e6b9c7738d02adc8ffe1330d81d12011")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcarFor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcarFor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
