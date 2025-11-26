@@ -1,0 +1,15 @@
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.AssemblyInfoInputs.cache
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.AssemblyInfo.cs
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.sourcelink.json
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\bin\Debug\net9.0\ClassesEstaticas.exe
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\bin\Debug\net9.0\ClassesEstaticas.deps.json
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\bin\Debug\net9.0\ClassesEstaticas.runtimeconfig.json
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\bin\Debug\net9.0\ClassesEstaticas.dll
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\bin\Debug\net9.0\ClassesEstaticas.pdb
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.dll
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\refint\ClassesEstaticas.dll
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.pdb
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ClassesEstaticas.genruntimeconfig.cache
+C:\Users\42400772819\Desktop\BackEndMoura\POO\PilaresPoo\ClassesEstaticas\obj\Debug\net9.0\ref\ClassesEstaticas.dll

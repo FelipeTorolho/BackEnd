@@ -26,19 +26,19 @@ do
             CadastrarFaturas();
             break;
         case 2:
-            Console.WriteLine($"Cadastrar Relatório em desenvolvimento");
+            CadastrarRelatorios();
             break;
         case 3:
-            Console.WriteLine($"Cadastrar Contrato em desenvolvimento");
+            CadastrarContratos();
             break;
         case 4:
             ListarFaturas();
             break;
         case 5:
-            Console.WriteLine($"Listar Relatorios em desenvolvimento");
+            ListarRelatorios();
             break;
         case 6:
-            Console.WriteLine($"Listar Contratos em desenvolvimento");
+            ListarContratos();
             break;
         case 0:
             Console.WriteLine($"Sair");
@@ -76,16 +76,36 @@ void CadastrarFaturas()
     documentos.Add(fat);
 
     Console.WriteLine($"Fatura Cadastrada");
-    
+
 }
 
 void CadastrarContratos()
 {
+    Console.WriteLine($"Qual o seu nome?");
+    string NomeDoCliente = Console.ReadLine();
+
+    Console.WriteLine($"Quais sao as clausulas do controle? ");
+    string ClausulasDoContrato = Console.ReadLine();
+
+    Contrato cont = new Contrato(NomeDoCliente, ClausulasDoContrato);
+    documentos.Add(cont);
+
+    Console.WriteLine($"Contrato Cadastrado");
 
 }
 
 void CadastrarRelatorios()
 {
+    Console.WriteLine($"Qual o nome do seu responsável?");
+    string NomeRelatorio = Console.ReadLine();
+
+    Console.WriteLine($"Qual e o relatorio do dia? ");
+    string RelatorioDoDia = Console.ReadLine();
+
+    Relatorio rel = new Relatorio(NomeRelatorio, RelatorioDoDia);
+    documentos.Add(rel);
+
+    Console.WriteLine($"Relatorio Cadastrado");
 
 }
 
@@ -104,12 +124,26 @@ void ListarFaturas()
 
 void ListarContratos()
 {
-
+    Console.WriteLine($"Listando Contratos:");
+    foreach (var item in documentos)
+    {
+        if (item is Contrato)
+        {
+            item.Imprimir();
+        }
+    }
 }
 
 void ListarRelatorios()
 {
-
+    Console.WriteLine($"Listando Relatorios:");
+    foreach (var item in documentos)
+    {
+        if (item is Relatorio)
+        {
+            item.Imprimir();
+        }
+    }
 }
 
 

@@ -7,7 +7,7 @@ namespace Exercicio02
         public float Valor = 0;
         public int DiasAtraso = 0;
         private float Juros = 0.10f;
-        
+
         // Construtor da classe
         public Fatura(string nomeDevedor, string nomeEmpresa, float valorFatura, int qtdDiasAtraso)
         {
@@ -21,11 +21,11 @@ namespace Exercicio02
         {
             if (DiasAtraso > 0)
             {
-                Valor = Valor + DiasAtraso * Juros; 
+                Valor = Valor + DiasAtraso * Juros;
             }
 
 
-            if(DiasAtraso >= 5)
+            if (DiasAtraso >= 5)
             {
                 Console.WriteLine($"Dívida encaminhada para o SERASA");
             }
@@ -35,15 +35,15 @@ namespace Exercicio02
         public void Imprimir()
         {
             CalcularValorDivida();
-            
-    Console.WriteLine($@"
+
+            Console.WriteLine($@"
     Credor: {Credor}
     Devedor: {Devedor}
     Dias de atraso: {DiasAtraso}
     Juros: R${Juros * DiasAtraso}
     Valor Total: R${Valor}
             ");
-       
+
         }
 
     }
