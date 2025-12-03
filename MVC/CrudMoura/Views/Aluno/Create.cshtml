@@ -1,0 +1,25 @@
+@model Crud.Models.Aluno
+<h1>Cadastro de Aluno</h1>
+
+<form asp-action="SalvarAlunos" method="post">
+<label for="Nome">Qual o Nome do Aluno</label>
+<input asp-for="Nome" class="form-control">
+
+<br>
+
+<label for="Idade">Qual a Idade</label>
+<input asp-for="Idade"class="form-control">
+
+<br>
+
+<label for="Ra">RA</label>
+<input asp-for="Ra"class="form-control">
+
+<br>
+
+<label for="CPF">CPF</label>
+<input asp-for="CPF"class="form-control">
+
+<br><br>
+<button class="btn btn-success">Cadastrar Aluno</button>
+</form>
